@@ -8,3 +8,5 @@ for number in list :
     s += number
 
 print(s)
+
+print("Hello!")
